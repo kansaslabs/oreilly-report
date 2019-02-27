@@ -1,0 +1,17 @@
+== A New Application Development Economy
+
+=== Software as a Global Service
+
+=== Key Trends Affecting Software Development
+
+==== Volume, velocity, and variability in data
+
+==== Ubiquitous computing
+
+==== Edge computing 
+
+==== Regulatory oversight
+
+=== Recent Cases
+
+==== PokeMon Go

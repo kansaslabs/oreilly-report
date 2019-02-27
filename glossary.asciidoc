@@ -1,0 +1,7 @@
+[[glossary]]
+== Glossary
+
+[glossary]
+
+
+term:: definition
